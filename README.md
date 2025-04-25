@@ -15,6 +15,9 @@ Democratizar o acesso aos dados contábeis do setor público e fomentar o contro
 Pull requests são bem-vindos. Sugestões via Issues também!
 
 ## Estrutura
+
+```textfile
+
 contabilidade-publica-acessivel/
 │
 ├── data/                    # Exemplos de relatórios do Siconfi
@@ -25,3 +28,4 @@ contabilidade-publica-acessivel/
 ├── tests/                   # Testes automatizados
 └── README.md
 
+´´´
