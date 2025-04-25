@@ -27,5 +27,4 @@ contabilidade-publica-acessivel/
 ├── notebooks/               # Jupyter notebooks exploratórios
 ├── tests/                   # Testes automatizados
 └── README.md
-
-´´´
+```
