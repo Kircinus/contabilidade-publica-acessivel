@@ -1,0 +1,3 @@
+Sample DCA textual content for tests.
+Receita Total: R$ 1.234.567,89
+Despesa Total: R$ 987.654,32

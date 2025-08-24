@@ -1,0 +1,1 @@
+using System; namespace Contabilidade.Publica.Client { class Program{ static void Main(){ Console.WriteLine("Client stub"); } } }
